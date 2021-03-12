@@ -4,7 +4,7 @@ collection: talks
 type: "Conference Presentation"
 permalink: /talks/trb2020_dynamic
 venue: "Transportation Research Board 99th Annual Meeting"
-date: 2020-01-01
+date: 2020-01-15
 location: "Washington DC"
 ---
 
