@@ -1,10 +1,10 @@
 ---
-title: "Two-sided market evaluation of last-mile transit operations with en-route transfers"
+title: "Leveraging destination flexibility to increase ridesharing participation: an integrated model and case study"
 collection: talks
 type: "Conference Presentation"
 permalink: /talks/istdm_flexibility
-venue: "7th Symposium of the European Association for Research in Transportation"
-date: 2018-09-05
-location: "Athens, Greece"
+venue: "International Symposium on Transportation Data and Modelling 2021 (Accepted)"
+date: 2021-06-21
+location: "Online"
 ---
 
