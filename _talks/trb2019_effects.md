@@ -4,6 +4,6 @@ collection: talks
 type: "Conference Presentation"
 permalink: /talks/trb2019_effects
 venue: "Transportation Research Board 98th Annual Meeting"
-date: 2019-01-01
+date: 2019-01-16
 location: "Washington, DC"
 ---
