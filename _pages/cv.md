@@ -11,30 +11,22 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Asc. in Integrated Engineering, University of British Columbia, 2014
+* M.S. in Transportation Engineering & Planning, New York University, 2019
+* Ph.D in Transportation, Massachusetts Institute of Technology, 2023 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* May 2018 - August 2019: Transportation Planner
+  * Stantec Consulting Services, New York NY
+  * Simulated traffic network dynamics to determine impact of future growth and infrastructure improvements on facility performance and level of service
+  * Modeled travel demand within large urban areas across North America to predict modal split and traffic assignment using state of the practice software programs.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* August 2014 - August 2017: Field Engineer
+  * Kiewit Infrastructure Company, Vancouver BC & Cove Point MD 
+  * Oversaw cost, forecasting and scheduling for $30 million scope of work installing mechanical equipment, which was performed on schedule and under budget.
+  * Tracked, forecasted and reported cost and progress during the closeout of a high-profile, multi-billion-dollar bridge and highway construction project in Vancouver, BC.
+
 
 Publications
 ======
@@ -48,12 +40,8 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Volunteering with UN Development Programme to proofread and copyedit internal and public-facing documents for the Bangkok Regional Office.
+* Volunteering with the Greater Boston Food Bank to organize and distribute food to those in need.
