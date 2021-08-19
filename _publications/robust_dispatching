@@ -1,0 +1,16 @@
+---
+title: "Robust matching-integrated vehicle rebalancing in ride-hailing system with uncertain demand"
+collection: publications
+permalink: /publication/robust_dispatching
+excerpt: 'There are two critical components in the operations of ride-hailing companies: driver–customer matching and vehicle rebalancing. To better immunize rebalancing decisions against demand uncertainty, a novel approach, the matching-integrated vehicle rebalancing (MIVR) model, is proposed in this paper to incorporate driver-customer matching into vehicle rebalancing problems to produce better rebalancing strategies. For further protection against uncertainty, robust optimization (RO) techniques are introduced to construct a robust version of the MIVR model.The MIVR model is shown to have better performance by reducing customer wait times compared to benchmark models under most scenarios. In addition, the robust MIVR model produces better solutions by planning for demand uncertainty compared to the non-robust (nominal) MIVR model.'
+date: 2021-08-01
+venue: 'Transportation Research Part B: Methodological'
+paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0191261521001004'
+citation: 'Guo, X., Caros, N.S. and Zhao, J., (2021). &quot;Robust matching-integrated vehicle rebalancing in ride-hailing system with uncertain demand.&quot; <i>Transportation Research Part B: Methodological</i>. 150, pp.161-189.'
+---
+There are two critical components in the operations of ride-hailing companies: driver–customer matching and vehicle rebalancing. To better immunize rebalancing decisions against demand uncertainty, a novel approach, the matching-integrated vehicle rebalancing (MIVR) model, is proposed in this paper to incorporate driver-customer matching into vehicle rebalancing problems to produce better rebalancing strategies. For further protection against uncertainty, robust optimization (RO) techniques are introduced to construct a robust version of the MIVR model.The MIVR model is shown to have better performance by reducing customer wait times compared to benchmark models under most scenarios. In addition, the robust MIVR model produces better solutions by planning for demand uncertainty compared to the non-robust (nominal) MIVR model.
+[Download paper here](https://www.sciencedirect.com/science/article/abs/pii/S0191261521001004)
+
+Recommended citation: Guo, X., Caros, N.S. and Zhao, J., (2021). "Robust matching-integrated vehicle rebalancing in ride-hailing system with uncertain demand" <i>Transportation Research Part B: Methodological</i>. 150, pp.161-189.
+
+Guo, X., Caros, N.S. and Zhao, J., (2021). "Robust matching-integrated vehicle rebalancing in ride-hailing system with uncertain demand" Transportation Research Part B: Methodological. 150, pp.161-189.
