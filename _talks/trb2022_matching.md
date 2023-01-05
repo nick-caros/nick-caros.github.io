@@ -4,6 +4,6 @@ collection: talks
 type: "Conference Presentation"
 permalink: /talks/trb2022_matching
 venue: "101st Annual Meeting of the Transportation Research Board"
-date: 2022-01-11
-location: "Online"
+date: 2022-01-10
+location: "Washington DC"
 ---
