@@ -12,4 +12,4 @@ I am a fourth year PhD student at the [MIT Transit Lab](transit.mit.edu) and [Ur
 
 ---
 
-Blog: https://medium.com/@ncaros
+Blog: [Medium](https://medium.com/@ncaros)
