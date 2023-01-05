@@ -17,6 +17,13 @@ Education
 
 Work experience
 ======
+* June 2022 - November 2022: PhD Intern, Data & Policy Analysis 
+ * OECD International Transport Forum, Paris
+ * Conducted policy research on performance evaluation and data reporting for new mobility services (e.g. micromobility, ride-hailing, autonomous vehicles) across the globe, facilitated expert workshops and recommended best practices. 
+ * Evaluated gender differences in the performance and availability of urban mobility for several large cities in West Africa and Korea.
+ * Lead the writing of the "Liveable Cities" chapter of the ITF's flagship publication, which describes the impacts of transport decarbonisation policies on quality of life in cities and uses model results to provide policy recommendations.
+
+
 * May 2018 - August 2019: Transportation Planner
   * Stantec Consulting Services, New York NY
   * Simulated traffic network dynamics to determine impact of future growth and infrastructure improvements on facility performance and level of service
